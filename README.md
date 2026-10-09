@@ -15,7 +15,7 @@ Currently working in Capgemini for telecom & network domain 📡 <img src="https
     <img src="https://img.shields.io/badge/-hrushikeshpanda-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/hpanda-dev" target="_blank">
-    <img src="https://img.shields.io/github/followers/hapnda-dev?label=Follow&style=social"/>
+    <img src="https://img.shields.io/github/followers/hpanda-dev?label=Follow&style=social"/>
   </a>
   <a href="mailto:phrushikesh60@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-phrushikesh60@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
