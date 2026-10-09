@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="230">
 
 <p><em>Java Full Stack Developer 🚀 from India 🇮🇳  <br>
-Currently working with telecom & network domain 📡 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"/></em></p>
+Currently working in Capgemini for telecom & network domain 📡 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"/></em></p>
 
 
 ### 🔗 Connect with Me for more details
