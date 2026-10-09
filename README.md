@@ -11,8 +11,8 @@ Currently working in Capgemini for telecom & network domain 📡 <img src="https
 ### 🔗 Connect with Me for more details
 
 <p>
-  <a href="https://www.linkedin.com/in/rishi-k-panda/" target="_blank">
-    <img src="https://img.shields.io/badge/-rishi--k--panda-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/hrushikeshpanda/" target="_blank">
+    <img src="https://img.shields.io/badge/-hrushikeshpanda-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/hpanda-dev" target="_blank">
     <img src="https://img.shields.io/github/followers/hapnda-dev?label=Follow&style=social"/>
